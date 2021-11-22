@@ -1,0 +1,19 @@
+.background {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../../assets/background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.pokemonArea{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+
+
+}

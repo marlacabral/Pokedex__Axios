@@ -1,0 +1,23 @@
+.card{
+    width: 20rem;
+    height: auto;
+    border-radius: 0.4rem;
+    
+    box-shadow: 0.2rem 0.2rem 0.4rem black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+h2{
+    color: black;
+    margin-top: 3rem;
+    text-transform: capitalize;
+}
+
+.image{
+    width: 20rem;
+    height: 18rem;
+}

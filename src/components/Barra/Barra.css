@@ -1,0 +1,46 @@
+.barra{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1rem 1rem;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.barra__titulo{
+    padding: 0.5rem 1rem;
+    text-shadow: 0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.472);
+
+}
+
+.barra__form{
+    padding: 0 1rem;
+}
+
+::placeholder{
+    color: black;
+    font-size: 100%;
+    border: none;
+
+}
+
+.procurar{
+    padding: .5rem;
+    border-radius: 0.4rem;
+    box-shadow: 0.4rem 0.2rem 0.4rem black;
+    background: none;
+    font-size: 85%;
+    margin: 1rem;
+}
+
+.digite{
+    width: 8rem;
+    background: none;
+    padding: .5rem;
+    border-radius: 0.4rem;
+    border: none;
+    box-shadow: 0.4rem 0.2rem 0.4rem black;
+    text-align: center;
+    
+}
